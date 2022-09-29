@@ -1,0 +1,94 @@
+D:\C#\project\project\bin\Debug\project.exe.config
+D:\C#\project\project\bin\Debug\project.exe
+D:\C#\project\project\bin\Debug\project.pdb
+D:\C#\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\C#\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\C#\project\project\obj\Debug\project.Form1.resources
+D:\C#\project\project\obj\Debug\project.Properties.Resources.resources
+D:\C#\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\C#\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\C#\project\project\obj\Debug\project.exe
+D:\C#\project\project\obj\Debug\project.pdb
+D:\C#\project\project\bin\Debug\MySql.Data.dll
+D:\C#\project\project\bin\Debug\Google.Protobuf.dll
+D:\C#\project\project\bin\Debug\ZstdNet.dll
+D:\C#\project\project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\project\project\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\project\project\bin\Debug\Ubiety.Dns.Core.dll
+D:\C#\project\project\bin\Debug\System.Memory.dll
+D:\C#\project\project\bin\Debug\System.Buffers.dll
+D:\C#\project\project\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\project\project\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\project\project\bin\Debug\MySql.Data.xml
+D:\C#\project\project\obj\Debug\project.exe.config
+D:\C#\project\project\obj\Debug\project.csproj.CopyComplete
+D:\C#\project\project\obj\Debug\project.register.resources
+D:\C#\project\project\obj\Debug\project.admin.resources
+D:\C#\project\project\obj\Debug\project.manage.resources
+D:\C#\project Backup\project\bin\Debug\project.exe.config
+D:\C#\project Backup\project\bin\Debug\project.exe
+D:\C#\project Backup\project\bin\Debug\project.pdb
+D:\C#\project Backup\project\bin\Debug\MySql.Data.dll
+D:\C#\project Backup\project\bin\Debug\Google.Protobuf.dll
+D:\C#\project Backup\project\bin\Debug\ZstdNet.dll
+D:\C#\project Backup\project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\project Backup\project\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\project Backup\project\bin\Debug\Ubiety.Dns.Core.dll
+D:\C#\project Backup\project\bin\Debug\System.Memory.dll
+D:\C#\project Backup\project\bin\Debug\System.Buffers.dll
+D:\C#\project Backup\project\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\project Backup\project\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\project Backup\project\bin\Debug\MySql.Data.xml
+D:\C#\project Backup\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\C#\project Backup\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\C#\project Backup\project\obj\Debug\project.exe.config
+D:\C#\project Backup\project\obj\Debug\project.admin.resources
+D:\C#\project Backup\project\obj\Debug\project.check_in.resources
+D:\C#\project Backup\project\obj\Debug\project.Form1.resources
+D:\C#\project Backup\project\obj\Debug\project.MainUi.resources
+D:\C#\project Backup\project\obj\Debug\project.manage.resources
+D:\C#\project Backup\project\obj\Debug\project.Properties.Resources.resources
+D:\C#\project Backup\project\obj\Debug\project.register.resources
+D:\C#\project Backup\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\C#\project Backup\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\C#\project Backup\project\obj\Debug\project.csproj.CopyComplete
+D:\C#\project Backup\project\obj\Debug\project.exe
+D:\C#\project Backup\project\obj\Debug\project.pdb
+D:\C#\project Main\project\bin\Debug\project.exe.config
+D:\C#\project Main\project\bin\Debug\project.exe
+D:\C#\project Main\project\bin\Debug\project.pdb
+D:\C#\project Main\project\bin\Debug\MySql.Data.dll
+D:\C#\project Main\project\bin\Debug\Google.Protobuf.dll
+D:\C#\project Main\project\bin\Debug\ZstdNet.dll
+D:\C#\project Main\project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\project Main\project\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\project Main\project\bin\Debug\Ubiety.Dns.Core.dll
+D:\C#\project Main\project\bin\Debug\System.Memory.dll
+D:\C#\project Main\project\bin\Debug\System.Buffers.dll
+D:\C#\project Main\project\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\project Main\project\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\project Main\project\bin\Debug\MySql.Data.xml
+D:\C#\project Main\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\C#\project Main\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\C#\project Main\project\obj\Debug\project.exe.config
+D:\C#\project Main\project\obj\Debug\project.admin.resources
+D:\C#\project Main\project\obj\Debug\project.check_in.resources
+D:\C#\project Main\project\obj\Debug\project.Form1.resources
+D:\C#\project Main\project\obj\Debug\project.MainUi.resources
+D:\C#\project Main\project\obj\Debug\project.manage.resources
+D:\C#\project Main\project\obj\Debug\project.Properties.Resources.resources
+D:\C#\project Main\project\obj\Debug\project.register.resources
+D:\C#\project Main\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\C#\project Main\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\C#\project Main\project\obj\Debug\project.csproj.CopyComplete
+D:\C#\project Main\project\obj\Debug\project.exe
+D:\C#\project Main\project\obj\Debug\project.pdb
+D:\C#\project Main\project\obj\Debug\project.ItemList.resources
+D:\C#\project\project\obj\Debug\project.UI.resources
+D:\C#\project\project\obj\Debug\project.history.resources
+D:\C#\project\project\obj\Debug\project.test.resources
+D:\C#\project\project\obj\Debug\project.userEdit.resources
+D:\C#\project\project\obj\Debug\project.Allhistory.resources
+D:\C#\project\project\obj\Debug\project.qr.resources
+D:\C#\project\project\obj\Debug\project.AllUser.resources
+D:\C#\project\project\obj\Debug\project.qrAgain.resources
